@@ -36,3 +36,5 @@ diff -= num9
 
 # result - 10th
 diff -= num10
+
+print("Result is: ", diff)
