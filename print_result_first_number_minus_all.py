@@ -23,6 +23,8 @@ diff -= num4
 diff -= num5
 
 # result - 6th
+diff -= num6
+
 # result - 7th
 # result - 8th
 # result - 9th
