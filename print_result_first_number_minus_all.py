@@ -15,6 +15,9 @@ num10 = int(input("Please input a number: "))
 diff = num1 - num2
 
 # result - 3rd
+
+diff -= num3
+
 # result - 4th
 # result - 5th
 # result - 6th
