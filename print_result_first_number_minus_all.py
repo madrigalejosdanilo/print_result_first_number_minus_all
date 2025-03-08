@@ -29,5 +29,7 @@ diff -= num6
 diff -= num7
 
 # result - 8th
+diff -= num8
+
 # result - 9th
 # result - 10th
