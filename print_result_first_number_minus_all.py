@@ -20,6 +20,8 @@ diff -= num3
 diff -= num4
 
 # result - 5th
+diff -= num5
+
 # result - 6th
 # result - 7th
 # result - 8th
