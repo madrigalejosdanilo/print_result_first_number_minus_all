@@ -1,5 +1,4 @@
 # ask user for 10 numbers
-
 num1 = int(input("Please input a number: "))
 num2 = int(input("Please input a number: "))
 num3 = int(input("Please input a number: "))
@@ -12,6 +11,9 @@ num9 = int(input("Please input a number: "))
 num10 = int(input("Please input a number: "))
 
 # first number - 2nd
+
+diff = num1 - num2
+
 # result - 3rd
 # result - 4th
 # result - 5th
