@@ -11,14 +11,14 @@ num9 = int(input("Please input a number: "))
 num10 = int(input("Please input a number: "))
 
 # first number - 2nd
-
 diff = num1 - num2
 
 # result - 3rd
-
 diff -= num3
 
 # result - 4th
+diff -= num4
+
 # result - 5th
 # result - 6th
 # result - 7th
